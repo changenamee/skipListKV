@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sky/CLionProjects/skipListKV/main.cpp
+iostream
+-
+memory
+-
+mutex
+-
+iostream
+-
+string
+-
+fstream
+-
+
